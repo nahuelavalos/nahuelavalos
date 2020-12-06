@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi! 👋
+
+✨ I'm Nahuel Avalos, Backend Software Engineer. 
+
+👨‍💻 As developer i had worked with (and more):
+
+- [Java 8](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html), [Spring Boot](https://start.spring.io/), [Maven](https://maven.apache.org/)
+- [IntelliJ IDEA](https://https://www.jetbrains.com/es-es/idea/), [Spring Tool Suite](https://spring.io/tools)
+- [PostgreSQL](https://www.postgresql.org/), [Oracle](https://www.oracle.com/ar/database/), [MySQL](https://dev.mysql.com/downloads/installer/), [Microsoft SQL Server](https://www.microsoft.com/sql-server/), [MongoDB](https://www.mongodb.com/)
+- [GitHub](https://github.com/), [Bitbucket](https://bitbucket.org/)
+- [Postman](https://www.postman.com/downloads/), [SoapUI](https://www.soapui.org/)
 
 <!--
 **nahuelavalos/nahuelavalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
