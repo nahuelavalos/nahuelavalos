@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-✨ I'm Nahuel Avalos, Backend Software Engineer. 
+✨ I'm Nahuel Avalos, Software Engineer. 
 
 👨‍💻 As developer i had worked with (and more):
 
